@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "company_name": "Tech Solutions",
+        "drive_date": "2020-10-01",
+        "student_appeared": 150
+    },
+    {
+        "id": 2,
+        "company_name": "Innovative Systems",
+        "drive_date": "2020-10-03",
+        "student_appeared": 200
+    },
+    {
+        "id": 3,
+        "company_name": "NextGen Technologies",
+        "drive_date": "2020-10-06",
+        "student_appeared": 180
+    },
+    {
+        "id": 4,
+        "company_name": "Future Enterprises",
+        "drive_date": "2020-10-08",
+        "student_appeared": 220
+    },
+    {
+        "id": 5,
+        "company_name": "Global Tech",
+        "drive_date": "2020-10-11",
+        "student_appeared": 170
+    },
+    {
+        "id": 6,
+        "company_name": "Pioneering Solutions",
+        "drive_date": "2020-10-14",
+        "student_appeared": 160
+    },
+    {
+        "id": 7,
+        "company_name": "Elite Corp",
+        "drive_date": "2020-10-15",
+        "student_appeared": 190
+    },
+    {
+        "id": 8,
+        "company_name": "Tech Innovations",
+        "drive_date": "2020-10-08",
+        "student_appeared": 210
+    },
+    {
+        "id": 9,
+        "company_name": "Smart Solutions",
+        "drive_date": "2020-10-18",
+        "student_appeared": 200
+    },
+    {
+        "id": 10,
+        "company_name": "Bright Future",
+        "drive_date": "2020-10-12",
+        "student_appeared": 150
+    },
+    {
+        "id": 11,
+        "company_name": "Tech Innovators",
+        "drive_date": "2020-10-11",
+        "student_appeared": 175
+    },
+    {
+        "id": 12,
+        "company_name": "Visionary Technologies",
+        "drive_date": "2020-10-15",
+        "student_appeared": 230
+    },
+    {
+        "id": 13,
+        "company_name": "Global Innovations",
+        "drive_date": "2020-10-28",
+        "student_appeared": 160
+    },
+    {
+        "id": 14,
+        "company_name": "Advanced Systems",
+        "drive_date": "2020-10-25",
+        "student_appeared": 140
+    },
+    {
+        "id": 15,
+        "company_name": "Tech Leaders",
+        "drive_date": "2020-10-15",
+        "student_appeared": 180
+    }
+]

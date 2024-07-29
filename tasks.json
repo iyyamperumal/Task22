@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "task_name": "Task 1",
+        "submission_date": "2020-10-01",
+        "month": "October",
+        "topic_title": "Introduction to Python",
+        "status": "Completed"
+    },
+    {
+        "id": 2,
+        "task_name": "Task 2",
+        "submission_date": "2020-09-02",
+        "month": "September",
+        "topic_title": "Data Structures in Python",
+        "status": "Completed"
+    },
+    {
+        "id": 3,
+        "task_name": "Task 3",
+        "submission_date": "2020-09-03",
+        "month": "September",
+        "topic_title": "Object-Oriented Programming",
+        "status": "Pending"
+    },
+    {
+        "id": 4,
+        "task_name": "Task 4",
+        "submission_date": "2020-10-04",
+        "month": "October",
+        "topic_title": "Web Development with Django",
+        "status": "Completed"
+    },
+    {
+        "id": 5,
+        "task_name": "Task 5",
+        "submission_date": "2020-09-05",
+        "month": "September",
+        "topic_title": "REST APIs",
+        "status": "In Progress"
+    },
+    {
+        "id": 6,
+        "task_name": "Task 6",
+        "submission_date": "2020-09-06",
+        "month": "September",
+        "topic_title": "Data Analysis with Pandas",
+        "status": "Completed"
+    },
+    {
+        "id": 7,
+        "task_name": "Task 7",
+        "submission_date": "2020-10-07",
+        "month": "October",
+        "topic_title": "Machine Learning Basics",
+        "status": "Pending"
+    },
+    {
+        "id": 8,
+        "task_name": "Task 8",
+        "submission_date": "2020-10-08",
+        "month": "October",
+        "topic_title": "Deep Learning with TensorFlow",
+        "status": "Completed"
+    },
+    {
+        "id": 9,
+        "task_name": "Task 9",
+        "submission_date": "2020-11-09",
+        "month": "Novmber",
+        "topic_title": "Natural Language Processing",
+        "status": "In Progress"
+    },
+    {
+        "id": 10,
+        "task_name": "Task 10",
+        "submission_date": "2020-10-15",
+        "month": "October",
+        "topic_title": "Data Visualization with Matplotlib",
+        "status": "Completed"
+    },
+    {
+        "id": 11,
+        "task_name": "Task 11",
+        "submission_date": "2020-10-18",
+        "month": "October",
+        "topic_title": "Big Data Technologies",
+        "status": "Pending"
+    },
+    {
+        "id": 12,
+        "task_name": "Task 12",
+        "submission_date": "2020-10-21",
+        "month": "October",
+        "topic_title": "Cloud Computing",
+        "status": "In Progress"
+    },
+    {
+        "id": 13,
+        "task_name": "Task 13",
+        "submission_date": "2020-10-28",
+        "month": "October",
+        "topic_title": "DevOps Practices",
+        "status": "Completed"
+    },
+    {
+        "id": 14,
+        "task_name": "Task 14",
+        "submission_date": "2020-11-14",
+        "month": "November",
+        "topic_title": "Cybersecurity Fundamentals",
+        "status": "In Progress"
+    },
+    {
+        "id": 15,
+        "task_name": "Task 15",
+        "submission_date": "2020-12-15",
+        "month": "December",
+        "topic_title": "Blockchain Technology",
+        "status": "Pending"
+    }
+]

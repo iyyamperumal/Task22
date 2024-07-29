@@ -1,0 +1,122 @@
+[
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7915ffc"
+    },
+    "userid": 1,
+    "present": false,
+    "date": "2020-10-01"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7915ffd"
+    },
+    "userid": 2,
+    "present": true,
+    "date": "2020-09-02"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7915ffe"
+    },
+    "userid": 3,
+    "present": true,
+    "date": "2020-09-03"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7915fff"
+    },
+    "userid": 4,
+    "present": false,
+    "date": "2020-10-04"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916000"
+    },
+    "userid": 5,
+    "present": true,
+    "date": "2020-09-05"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916001"
+    },
+    "userid": 6,
+    "present": true,
+    "date": "2020-09-06"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916002"
+    },
+    "userid": 7,
+    "present": false,
+    "date": "2020-10-07"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916003"
+    },
+    "userid": 8,
+    "present": true,
+    "date": "2020-10-08"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916004"
+    },
+    "userid": 9,
+    "present": true,
+    "date": "2020-11-09"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916005"
+    },
+    "userid": 10,
+    "present": false,
+    "date": "2020-10-15"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916006"
+    },
+    "userid": 11,
+    "present": true,
+    "date": "2020-10-18"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916007"
+    },
+    "userid": 12,
+    "present": true,
+    "date": "2020-10-21"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916008"
+    },
+    "userid": 13,
+    "present": true,
+    "date": "2020-10-28"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b7916009"
+    },
+    "userid": 14,
+    "present": false,
+    "date": "2020-11-14"
+  },
+  {
+    "_id": {
+      "$oid": "66a2a52daf504db2b791600a"
+    },
+    "userid": 15,
+    "present": false,
+    "date": "2020-12-15"
+  }
+]

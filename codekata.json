@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fda"
+  },
+  "userid": 1,
+  "code_title": "Binary Search",
+  "code_completed_count": 5,
+  "code_pending_count": 2,
+  "dateofcompletion": "2020-07-10"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fdb"
+  },
+  "userid": 2,
+  "code_title": "Sorting Algorithms",
+  "code_completed_count": 3,
+  "code_pending_count": 1,
+  "dateofcompletion": "2020-07-12"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fdc"
+  },
+  "userid": 3,
+  "code_title": "Dynamic Programming",
+  "code_completed_count": 4,
+  "code_pending_count": 3,
+  "dateofcompletion": "2020-07-15"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fdd"
+  },
+  "userid": 4,
+  "code_title": "Graph Theory",
+  "code_completed_count": 6,
+  "code_pending_count": 0,
+  "dateofcompletion": "2020-07-20"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fde"
+  },
+  "userid": 5,
+  "code_title": "Data Structures",
+  "code_completed_count": 7,
+  "code_pending_count": 2,
+  "dateofcompletion": "2020-07-22"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fdf"
+  },
+  "userid": 6,
+  "code_title": "Greedy Algorithms",
+  "code_completed_count": 2,
+  "code_pending_count": 4,
+  "dateofcompletion": "2020-07-25"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fe0"
+  },
+  "userid": 7,
+  "code_title": "Backtracking",
+  "code_completed_count": 5,
+  "code_pending_count": 1,
+  "dateofcompletion": "2020-07-27"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fe1"
+  },
+  "userid": 8,
+  "code_title": "Recursion",
+  "code_completed_count": 3,
+  "code_pending_count": 2,
+  "dateofcompletion": "2020-07-30"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fe2"
+  },
+  "userid": 9,
+  "code_title": "Tree Traversal",
+  "code_completed_count": 8,
+  "code_pending_count": 1,
+  "dateofcompletion": "2020-08-01"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fe3"
+  },
+  "userid": 10,
+  "code_title": "String Manipulation",
+  "code_completed_count": 4,
+  "code_pending_count": 3,
+  "dateofcompletion": "2020-08-05"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fe4"
+  },
+  "userid": 11,
+  "code_title": "Hashing",
+  "code_completed_count": 6,
+  "code_pending_count": 0,
+  "dateofcompletion": "2020-08-07"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fe5"
+  },
+  "userid": 12,
+  "code_title": "Sorting and Searching",
+  "code_completed_count": 7,
+  "code_pending_count": 1,
+  "dateofcompletion": "2020-08-10"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fe6"
+  },
+  "userid": 13,
+  "code_title": "Bit Manipulation",
+  "code_completed_count": 2,
+  "code_pending_count": 5,
+  "dateofcompletion": "2020-08-12"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fe7"
+  },
+  "userid": 14,
+  "code_title": "Graph Algorithms",
+  "code_completed_count": 3,
+  "code_pending_count": 2,
+  "dateofcompletion": "2020-08-15"
+},
+{
+  "_id": {
+    "$oid": "66a29e4faf504db2b7915fe8"
+  },
+  "userid": 15,
+  "code_title": "Algorithm Design",
+  "code_completed_count": 9,
+  "code_pending_count": 1,
+  "dateofcompletion": "2020-08-20"
+}]
